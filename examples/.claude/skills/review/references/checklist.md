@@ -1,0 +1,3 @@
+- Does it do what the title says?
+- Are new branches covered by tests?
+- Is every migration reversible?
