@@ -1,5 +1,7 @@
 # Skill Audit Kit
 
+*Part of the [Vivaminima tools](https://github.com/vivaminima) for Claude Code users.*
+
 Find out why an agent skill does not load, does not trigger, or eats your context — before you ship it.
 
 ## New to this? Start here
@@ -122,5 +124,8 @@ MIT licence. See CHANGELOG.md for what changed.
 ## More from Vivaminima
 
 - **Skill Audit Pro ($19)**, the paid edition of this tool, one-time payment on Gumroad: https://vivastory4.gumroad.com/l/skill-audit-pro
-- **Token Audit Kit ($19)** — see how many tokens your CLAUDE.md and its @imports cost before your first prompt, and a step-by-step guide to split it. Free script: https://github.com/vivaminima/claude-md-audit · Paid kit: https://vivaminima.lemonsqueezy.com/checkout/buy/57973270-94ea-4cc7-bcb4-294693714087
+
+  <a href="https://vivastory4.gumroad.com/l/skill-audit-pro"><img src="https://raw.githubusercontent.com/vivaminima/vivaminima/main/img/skill-audit-kit.png" width="480" alt="Skill Audit Pro"></a>
+
+- **Token Audit Kit ($19)** — see how many tokens your CLAUDE.md and its @imports cost before your first prompt, and a step-by-step guide to split it. Free script: https://github.com/vivaminima/context-file-audit · Paid kit (store): https://vivastory4.gumroad.com
 - Free tools: [skill-audit-kit](https://github.com/vivaminima/skill-audit-kit) · [secret-map](https://github.com/vivaminima/secret-map) · [inbox-ledger](https://github.com/vivaminima/inbox-ledger)
