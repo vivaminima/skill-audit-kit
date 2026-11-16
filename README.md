@@ -4,6 +4,8 @@
 
 <img src="https://raw.githubusercontent.com/vivaminima/vivaminima/main/img/run/skill-audit-kit.png" width="760" alt="skill-audit-kit: real output of the free version on a made-up sample">
 
+**Install in Claude Code:** `/plugin install skill-audit-kit --marketplace vivaminima/vivaminima`
+
 Find out why an agent skill does not load, does not trigger, or eats your context — before you ship it.
 
 ## New to this? Start here
