@@ -113,13 +113,12 @@ Use UTF-8 mode so non-English text prints correctly in the console:
 python -X utf8 skill_audit.py path/to/project
 ```
 
-## Requirements and what was tested
+## Requirements and what we ran it on
 
 Python 3 standard library only - nothing to install.
 
-- Tested: Windows 11, Python 3.10.11 (this release, 65 tests, including a cp949 console run).
-- Version 1.0.2 was tested on Linux, Python 3.13; 1.0.0 was also run on Windows with Python 3.10 by an independent reviewer.
-- Other versions and platforms have not been tested.
+- Windows 11, Python 3.10.11 (this release, 65 tests, including a cp949 console run).
+- Version 1.0.2 ran on Linux, Python 3.13; 1.0.0 was also run on Windows with Python 3.10 by an independent reviewer.
 
 Run the tests yourself with `python -m unittest discover -s tests`.
 
