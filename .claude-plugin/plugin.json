@@ -1,0 +1,17 @@
+{
+  "name": "skill-audit-kit",
+  "description": "Find out why a Claude skill does not load, does not trigger, or eats your context. One Python file, offline, read-only.",
+  "author": {
+    "name": "Vivaminima",
+    "url": "https://github.com/vivaminima"
+  },
+  "homepage": "https://vivastory4.gumroad.com/l/skill-audit-pro",
+  "repository": "https://github.com/vivaminima/skill-audit-kit",
+  "license": "MIT",
+  "keywords": [
+    "claude-code",
+    "claude-skills",
+    "cli",
+    "developer-tools"
+  ]
+}
